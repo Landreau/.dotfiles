@@ -11,3 +11,6 @@ Run **stow** to symlink everything or just select what you want
 > stow */ # Everything (the '/' ignores the README)
 > 
 > stow nvim # Just my nvim config
+
+# Programs
+An updated list of all the programs I use can be found in the programs directory
